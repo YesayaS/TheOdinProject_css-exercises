@@ -1,0 +1,19 @@
+p:nth-child(odd){
+    background-color: pink;
+    font-family: Verdana, Dejavu Sans, sans-serif;
+}
+
+#two{
+    color: blue;
+    font-size: 36px;
+}
+
+.font-adjust{
+    font-size: 24px;
+}
+
+#four{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
